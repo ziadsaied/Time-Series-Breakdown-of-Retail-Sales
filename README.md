@@ -15,8 +15,7 @@ Analyze retail data to:
 ---
 ## ⚙️ Setup / Installation
 
-1- Clone the repository:
-- git clone: https://github.com/ziadsaied/Retail-Sales-Time-Series.git
+1- Clone the repository: git clone https://github.com/ziadsaied/Retail-Sales-Time-Series.git
 2- Install dependencies:
 - pip install -r requirements.txt
 - Then run the Jupyter notebook:
